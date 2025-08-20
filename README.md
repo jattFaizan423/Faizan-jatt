@@ -1,4 +1,4 @@
-# Hi 👋, I'm Faizan (aka jattFaiz)  
+# Hi 👋, I'm Faizan  
 **Aspiring Data Scientist** · **AI Engineer in Training**  
 
 ![Profile views](https://komarev.com/ghpvc/?username=jattFaiz&label=Profile%20Views&color=0e75b6&style=flat)
