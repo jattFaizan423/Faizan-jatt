@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>  
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/_static/plotly_logo_orange.svg" alt="Plotly" width="60" height="40"/>  
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/plotly.svg" alt="Plotly" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>  
 </p>
 
