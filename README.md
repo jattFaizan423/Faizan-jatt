@@ -1,58 +1,51 @@
-# Hi 👋, I'm Faizan 
-**Aspiring Data Scientist** · **AI Engineer in Training**  
+# Hi there, I'm Faizan 👋  
 
-![Profile views](https://komarev.com/ghpvc/?username=jattFaiz&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-##  About Me  
--  Data Analytics graduate with hands-on experience in:  
-     Python · Pandas · NumPy · Matplotlib, Seaborn · Plotly · MySQL · Statistics  
--  Currently expanding knowledge in **Machine Learning** (Supervised & Unsupervised)  
--  Strong problem-solving mindset: passionate about real-world solutions powered by data 1  
--  Long-term goal: become a proficient **AI Engineer**, crafting intelligent solutions with ML & data science  
+Welcome to my GitHub profile! I'm passionate about **Machine Learning**, **Data Science**, and **Automation**.  
 
 ---
 
-##  Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-jatt-167b7936b)  
-
----
-
-##  Languages & Tools  
-
-<p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>  
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>  
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>  
+## 🚀 Languages & Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
 
-##  GitHub Stats  
-![Faizan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jattFaiz&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jattFaiz&layout=compact&theme=radical)  
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jattFaizan423&show_icons=true&theme=tokyonight" alt="Faizan's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jattFaizan423&layout=compact&theme=tokyonight" height="180px"/>
+</p>
 
 ---
 
-##  Current Focus  
--  Diving deeper into **Machine Learning algorithms**  
--  Building **complete ML pipelines** from data ingestion to model deployment  
--  Documenting my learning and sharing code through GitHub  
+## 🔥 GitHub Streak & Trophies:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jattFaizan423&theme=tokyonight" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jattFaizan423&theme=radical&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
-##  Projects (In Progress & Planned)  
-| Project Name            | Description                             | Status            |
-|------------------------|------------------------------------------|-------------------|
-| **Data Analytics Showcase** | Visualizations & SQL queries on real datasets |  In Progress     |
-| **ML Classifier**           | Build a classification model (e.g., for healthcare, finance) |  Planning        |
-| **End-to-End AI Project**   | From data pipeline to model deployment (e.g., Flask + ML API) |  Future Goal     |
+## 🎯 Current Focus:
+- Learning Machine Learning & Data Science  
+- Building projects with Python  
+- Exploring AI and automation  
 
 ---
 
-“Turning data into intelligence, and intelligence into action.”
+## 📫 Connect with me:
+<p align="center">
+  <a href="https://github.com/jattFaizan423"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
